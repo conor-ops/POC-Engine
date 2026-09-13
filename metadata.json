@@ -1,0 +1,6 @@
+{
+  "name": "ProvenanceChain - Creator Proof of Work & Supply Ledger",
+  "description": "Immutable blockchain subsystem for creators to timestamp proof of concept, monitor real-time IoT sensor telemetry, execute automated smart contract verification, and guarantee permanent data ownership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
